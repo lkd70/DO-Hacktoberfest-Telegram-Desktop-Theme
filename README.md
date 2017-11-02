@@ -1,5 +1,5 @@
 # DO-Hacktoberfest-Telegram-Desktop-Theme
-A theme for Telegram Desktop based on Digital Oceans Hacktoberfest colour scheme.
+A theme for Telegram Desktop based on Digital Oceans Hacktoberfest 2016 colour scheme.
 
 ![Example of theme](https://s27.postimg.org/oerl6t83n/upload.png)
 
